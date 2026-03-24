@@ -1,2 +1,2 @@
 # sporttracker-updates
-Actualizaciones de Sport Tracker
+Actualizaciones para Sport Tracker
