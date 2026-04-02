@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
-  "download_url": "https://github.com/mmeda23/sporttracker-updates/releases/download/v2.3/SportTracker_Setup.exe",
-  "release_notes": "v2.3: Corrección de errores - manejo de videos"
+  "version": "2.4",
+  "download_url": "https://github.com/mmeda23/sporttracker-updates/releases/download/v2.4/SportTracker_Setup.exe",
+"release_notes": "v2.4\n- Scroll con el mouse funcionando en filtros.\n- Ya no se abre la carpeta de destino al exportar.\n- Fix bug tecla m.\n- Cargar Plantilla ahora permite tanto importar como exportar plantillas para ambos modos.\n- Nuevo botón en la ventana de configurar tiempos que permite dejar siempre al frente la ventana.\n- Nuevo método para reordenar botones creados.\n- Fix bug de borrar última medición si esta formaba parte de un grupo.\n- Nuevos atajos para creación de teclas.\n- Shift + tecla enlazada permite saltar grupo para medición individual."
 }
