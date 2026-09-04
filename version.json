@@ -1,5 +1,5 @@
 {
-  "version": "2.5.8",
-  "download_url": "https://github.com/mmeda23/sporttracker-updates/releases/download/v2.5.8/SportTracker_Setup.exe",
-"release_notes": "v2.5.8: \n- Nueva pantalla de configuración de programa. \n- Nuevo método 'Limpiar mediciones' al exportar csv. \n- Edición de varias mediciones al mismo tiempo (si estas son iguales). \n- Fix bug configuración de 2 dispositivos iguales con distinto torneo. \n- Deporte por defecto en TCC Nulo y permite búsqueda de deporte por teclado. \n- Tiempo total de video en ventana de video agregado. \n- Eliminación del método de capturas automáticas. Ahora se puede usar la tecla 0 para medir."
+  "version": "2.5.9",
+  "download_url": "https://github.com/mmeda23/sporttracker-updates/releases/download/v2.5.9/SportTracker_Setup.exe",
+"release_notes": "v2.5.9: \n- Fix captación UUID."
 }
